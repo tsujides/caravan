@@ -221,7 +221,9 @@ footer {
 .footer-text {
   color: #fff;
 }
-
+a {
+    color: unset;
+}
 main>.container>.row>.col-8 {
     padding: 0;
 }
